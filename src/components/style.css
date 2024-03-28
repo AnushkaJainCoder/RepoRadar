@@ -1,0 +1,63 @@
+
+
+
+body{
+    /* background:radial-gradient(rgb(238, 154, 154),rgb(159, 159, 237),black); */
+    background-image: url("https://th.bing.com/th/id/OIP.UT0oeUiZ9IgAmQzyEfIDmQAAAA?pid=ImgDet&rs=1");
+    background-size: cover;
+    opacity: 0.8;;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    padding-left:70px ;
+   
+    
+    /* margin: 0; */
+}
+
+.rep{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 300px;
+    /* align-items: center; */
+    width:80%;
+    /* text-align: center; */
+}
+
+.fl{
+    display: flex;
+    gap: 200px;
+    justify-content: space-around;
+    width:80%;
+    color: white;
+    /* margin-right:50px ; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    
+}
+
+.form{
+    display: flex;
+   align-items: flex-end;
+   justify-content: center;
+  
+   margin-top: 30px;
+   
+}
+.label{
+    width: 300px;
+    padding: 10px;
+    outline: none;
+    background-color: black;
+     color: white;
+}
+button{
+    width: 90px;
+    padding: 10px;
+    outline: none;
+    /* color: black;
+    background-color: white; */
+   
+
+}
